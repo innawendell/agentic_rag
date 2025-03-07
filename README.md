@@ -1,1 +1,1 @@
-# agentic_rag
+# AGENTIC RAG WITH SMOLAGENTS
